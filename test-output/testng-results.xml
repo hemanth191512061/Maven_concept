@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="616" started-at="2020-04-26T14:23:33 IST" finished-at="2020-04-26T14:23:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="616" started-at="2020-04-26T14:23:33 IST" finished-at="2020-04-26T14:23:34 IST">
+      <class name="basics1.APITest">
+        <test-method status="PASS" signature="APItest()[pri:0, instance:basics1.APITest@72b6cbcc]" name="APItest" duration-ms="23" started-at="2020-04-26T14:23:34 IST" finished-at="2020-04-26T14:23:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APItest -->
+      </class> <!-- basics1.APITest -->
+      <class name="basics1.SeleniumTest">
+        <test-method status="PASS" signature="seleniumtest()[pri:0, instance:basics1.SeleniumTest@a7e666]" name="seleniumtest" duration-ms="2" started-at="2020-04-26T14:23:34 IST" finished-at="2020-04-26T14:23:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumtest -->
+      </class> <!-- basics1.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
